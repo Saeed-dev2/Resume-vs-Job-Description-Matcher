@@ -38,9 +38,6 @@ Then open the Gradio interface to upload your resume and job description.
 
 The tool will output a percentage match and a verdict.
 
-## 🖼️ Interface
-
-![App Screenshot](screenshot.png)  <!-- Replace with actual image if available -->
 
 ## 📄 License
 
